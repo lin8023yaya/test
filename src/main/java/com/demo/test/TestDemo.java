@@ -5,7 +5,5 @@ public class TestDemo {
         System.out.println("hello world");
         System.out.println("你好");
         System.out.println("测试github");
-        System.out.println("坚持自己，执行力");
-
     }
 }
